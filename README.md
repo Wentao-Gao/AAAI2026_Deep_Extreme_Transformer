@@ -42,9 +42,6 @@ DET directly addresses this dual challenge with a **theoretically grounded** fra
 | ⚖️ **Weighted Tweedie Loss** | Aligns training objective with rare-event importance. |
 | 🌀 **Nonstationary Attention Integration** | Adapts to evolving rainfall regimes and long-term shifts. |
 
-<p align="center">
-  <img src="docs/det_diagram.png" width="820" alt="Deep Extreme Transformer Framework">
-</p>
 
 ---
 
